@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sKnife",
   "bboxMode":0,
   "bbox_bottom":26,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cfff9a73-15e8-44b8-b9ee-4c592bb9622d","name":"cfff9a73-15e8-44b8-b9ee-4c592bb9622d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cfff9a73-15e8-44b8-b9ee-4c592bb9622d","name":"cfff9a73-15e8-44b8-b9ee-4c592bb9622d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

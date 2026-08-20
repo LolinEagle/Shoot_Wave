@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snAk47ClipOut",
   "audioGroupId":{
     "name":"SFX",
     "path":"audiogroups/SFX",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.805,
+  "duration":0.8,
+  "exportDir":"",
   "name":"snAk47ClipOut",
   "parent":{
     "name":"SFX",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snAk47ClipOut.wav",
-  "type":0,
   "volume":1.0,
 }

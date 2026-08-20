@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sPlayerHandgun",
   "bboxMode":2,
   "bbox_bottom":209,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a4f7e269-c992-4652-b9a5-4772c4bc8ed4","name":"a4f7e269-c992-4652-b9a5-4772c4bc8ed4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a4f7e269-c992-4652-b9a5-4772c4bc8ed4","name":"a4f7e269-c992-4652-b9a5-4772c4bc8ed4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

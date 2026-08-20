@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snAk47Cock",
   "audioGroupId":{
     "name":"SFX",
     "path":"audiogroups/SFX",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.555,
+  "duration":0.55,
+  "exportDir":"",
   "name":"snAk47Cock",
   "parent":{
     "name":"SFX",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snAk47Cock.wav",
-  "type":0,
   "volume":1.0,
 }

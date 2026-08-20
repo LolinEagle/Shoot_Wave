@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"snShotgunBenelliM3Shoot",
   "audioGroupId":{
     "name":"SFX",
     "path":"audiogroups/SFX",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.874705,
+  "duration":3.8697052,
+  "exportDir":"",
   "name":"snShotgunBenelliM3Shoot",
   "parent":{
     "name":"SFX",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snShotgunBenelliM3Shoot.wav",
-  "type":0,
   "volume":1.0,
 }

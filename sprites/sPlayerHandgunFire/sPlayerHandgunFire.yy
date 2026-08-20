@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sPlayerHandgunFire",
   "bboxMode":2,
   "bbox_bottom":209,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"555b6e72-0c3b-4e34-a4c1-b462d9a186b7","name":"555b6e72-0c3b-4e34-a4c1-b462d9a186b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2331431d-0b6e-4125-906d-3949c48bd558","name":"2331431d-0b6e-4125-906d-3949c48bd558","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"6afe09bf-3b0c-4d42-a245-18bad197086d","name":"6afe09bf-3b0c-4d42-a245-18bad197086d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"555b6e72-0c3b-4e34-a4c1-b462d9a186b7","name":"555b6e72-0c3b-4e34-a4c1-b462d9a186b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2331431d-0b6e-4125-906d-3949c48bd558","name":"2331431d-0b6e-4125-906d-3949c48bd558","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6afe09bf-3b0c-4d42-a245-18bad197086d","name":"6afe09bf-3b0c-4d42-a245-18bad197086d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
