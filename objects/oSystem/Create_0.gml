@@ -19,8 +19,13 @@ global.healPlayer = 0;
 if(!file_exists(OPTION)){
 	global.gameOST = 0.5;
 	global.gameSFX = 0.5;
-	global.gameUp = ord("W");
-	global.gameLeft = ord("A");
+	if (os_get_language() == "fr"){
+		global.gameUp = ord("Z");
+		global.gameLeft = ord("Q");
+	} else {
+		global.gameUp = ord("W");
+		global.gameLeft = ord("A");
+	}
 	global.gameDown = ord("S");
 	global.gameRight = ord("D");
 }else{
