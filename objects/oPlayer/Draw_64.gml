@@ -2,6 +2,10 @@
 if(!global.gamePaused){
 	scDrawSet(fArial24, fa_left, fa_top);
 
+	draw_rectangle(0, 0, 400, 88, false);
+	draw_set_color(c_dkgray);
+	draw_rectangle(0, 0, 398, 86, false);
+
 	//Heal Player
 	draw_set_color(c_blue);
 	draw_text(8, 8, "Heal");

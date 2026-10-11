@@ -2,9 +2,9 @@
 if(!global.gamePaused){
 	scDrawSet(fArial48, fa_right, fa_top);
 	if(instance_exists(oPlayer)){
-		draw_rectangle(RES_W, 0, RES_W - 416, 80, false);
-		draw_set_color(c_black);
-		draw_rectangle(RES_W, 0, RES_W - 413, 77, false);
+		draw_rectangle(RES_W, 0, RES_W - 400, 88, false);
+		draw_set_color(c_dkgray);
+		draw_rectangle(RES_W, 0, RES_W - 398, 86, false);
 		draw_set_color(c_white);
 		
 		//Score
